@@ -23,3 +23,5 @@ You will need either Google Chrome or Firefox for this workshop (preferably Chro
 ###### 2. Install a code editor
 
 You will need a code editor, which allows you to write code locally on your computer. We recommend Atom or Sublime Text.
+
+### [Go to Step 1 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/step01.md)
