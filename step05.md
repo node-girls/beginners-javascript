@@ -53,7 +53,7 @@ Write an if/else statement that evaluates if a number is even or odd. If it is e
 For this challenge, you might find it useful to use the "modulo" operator, which looks like this: `%`. The modulo operator finds the remainder after division of one number by another. For example:
 
 ```js
-13 % 2 = 1 // 12 divided by 2 leaves a remainder of 1
+13 % 2 = 1 // 13 divided by 2 leaves a remainder of 1
 100 % 10 = 0 // 100 divided by 10 leaves a remainder of 0
 ```
 
