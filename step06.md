@@ -1,21 +1,16 @@
-# Step 6: If/Else Statements
+# Step 6: For Loops
 
 ### Try it out
 
 ```js
-var hungry = true;
-
-if (hungry === true) {
-  console.log('Feed me!');
-
-} else {
-  console.log('Get away from me');
+for (var i=0; i < 10; i++) {
+  console.log(i);
 
 }
 ```
 
 ### Mini challenge
 
-Write a function called `evenOrOdd` that takes a number as a parameter, and evaluates if it is even or odd. If it is even, it will print the string `'even'`, and if it is odd, it will print `'odd'`.
+Write a for loop that loops over the numbers from 1 to 100, printing only every second number. So it should return `2, 4, 6, 8, 10...`.
 
 ### [Go to Step 7 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/step07.md)
