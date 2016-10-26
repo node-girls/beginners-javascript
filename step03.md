@@ -19,8 +19,6 @@ You can even put comments on the same line as actual code:
 console.log(typeof 'Hello world!'); // checking type of hello world
 ```
 
-If you run these bits of code, the comments will be ignored, and will not interfere with any of your syntax.
-
 ### Mini challenge
 
 Add some helpful comments to the code you wrote in the last step. Run the code and make sure you haven't broken anything!
