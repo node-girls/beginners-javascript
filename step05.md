@@ -14,4 +14,4 @@ console.log(add(2, 3));
 
 Write a function called `multiply` that multiplies two numbers together. It should take two numbers as parameters and `console.log()` the answer.
 
-### [Go to Step 5 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/step05.md)
+### [Go to Step 6 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/step06.md)

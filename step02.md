@@ -1,6 +1,6 @@
 # Step 2: Data Types
 
-If you played around with `console.log()` in the last step, you might have noticed that words always have to be inside quotes or else the code breaks, whereas numbers can work without quotes. Why is this? Well these are different data types in JavaScript. You'll need to learn the three main data types to get started coding.
+If you played around with `console.log()` in the last step, you might have noticed that words always have to be inside quotes or else the code breaks, whereas numbers can work without quotes. Why is this? Well these are different data types in JavaScript. You'll need to learn the three main data types to get started coding (later we'll look at some other data types, like objects and arrays).
 
 ## Strings
 
