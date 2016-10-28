@@ -30,7 +30,7 @@ true
 
 You've seen what they look like, now make sure they are what you think they are. There is a built-in feature in JavaScript which allows you to check the type of a particular value: `typeof`.
 
-Write this bit of code in your `script.js` file, refresh your browser and take a look in the console:
+Write this code in your Repl, and click "run":
 
 ```js
 console.log(typeof 'Hello world!');

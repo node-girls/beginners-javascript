@@ -8,15 +8,19 @@ We want to print "Hello world!" to the console: a place where you can see the ou
 
 ### Try it out
 
-Write this in your `script.js` file:
+Write this in your Repl:
 
 ```js
 console.log('Hello world!');
 ```
 
-Refresh your HTML file in the browser, check the console, and you should see "Hello world!" printed out. It'll look something like this:
+Click "run" and check the console. You should see "Hello world!" printed out. It'll look something like this:
 
-<img src="http://tutorials.codebar.io/js/lesson1/assets/images/console-hello.png">
+![hello world](https://cloud.githubusercontent.com/assets/10683087/19825443/3276db48-9d71-11e6-931f-440088befb0e.png)
+
+Don't worry about the "undefined". That will go away when we start writing more complex code.
+
+You also might be wondering why there's a semicolon at the end of the code you wrote. Semicolons are used at the end of every statement in JavaScript. The code usually won't break if you forget it, but it's good practice to remember.
 
 ### Mini challenge
 

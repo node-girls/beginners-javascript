@@ -14,14 +14,8 @@ If you want to learn to code, JavaScript is a great first language. As the offic
 
 This workshop is divided into a number of steps. In each step, you will be introduced to a new programming concept, be shown some examples, and be given a challenge to complete. At the end of each step, you should find a link to continue onto the next step.
 
-## Before You Start
+## Where to Run Your Code
 
-###### 1. Install a developer-friendly browser
-
-You will need either Google Chrome or Firefox for this workshop (preferably Chrome). These browsers have the best tools for coding, and include something called the "developer console" which will allow you to see your code working.
-
-###### 2. Install a code editor
-
-You will need a code editor, which allows you to write code locally on your computer. We recommend Atom or Sublime Text.
+As you write code, you'll want to be able to see what it does. For this, you need to "run it". You can do this in a number of ways, but to make things simple today, we are going to use a tool called [Repl.it](https://repl.it/). Create an account, and start a new project on the site. Make sure to select JavaScript as your language of choice.
 
 ### [Go to Step 1 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/step01.md)
