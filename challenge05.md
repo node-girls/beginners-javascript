@@ -10,3 +10,5 @@ stringy(5) // --> '10101'
 ```
 
 The size will always be positive and will only use whole numbers.
+
+### [Go to Challenge 6 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/challenge06.md)
