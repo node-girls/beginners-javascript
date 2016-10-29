@@ -40,7 +40,7 @@ for (var i=1; i <= 10; i++) {
 }
 ```
 
-Notice the variable is set to `1`, because we want counting to begin there. The length is set to be less than or equal to 10, as want the loop to end there. And we are increasing the value of `i` by one each time.
+Notice the variable `i` is set to `1`, because we want counting to begin there. The length is set to be less than or equal to 10, as we want the loop to end there. And we are increasing the value of `i` by one each time.
 
 
 ### Mini challenge
