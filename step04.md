@@ -1,10 +1,10 @@
 # Step 4: Variables
 
-When you code, you'll want to create shortcuts so you can easily refer to things without writing out the value every time. In JavaScript we have "variables", which allow us to store values to use later.
+When you code, you'll want to create shortcuts so you can easily refer to things without writing out the same value every time. In JavaScript we have "variables", which allow us to store values to use later.
 
 ## Try it out
 
-You create a variable using the keyword `var`, which lets the console know that you're about to store a value. You also have to give a name to your variable, which can be anything you like, so long as it doesn't include spaces.
+You create a variable using the keyword `var`, which lets the application know that you're about to store a value. You also have to give a name to your variable, which can be anything you like, so long as it doesn't include spaces.
 
 Here's an example of creating a variable called "artist", which is storing a string called "Beyoncé Knowles".
 
@@ -14,7 +14,7 @@ var artist = 'Beyoncé Knowles';
 console.log(artist);
 ```
 
-You'll notice that once you've created the variable, you can then simply write the name of the variable wherever you want to refer to it, rather than writing out Beyoncé's full name every time. You don't ever need quotes around a variable name.
+You'll notice that once you've created the variable, you can then simply write the name of the variable wherever you want to refer to it, rather than writing out Beyoncé's full name every time. You don't even need quotes around a variable name.
 
 Try to run the above code, and see what is printed to the console.
 
