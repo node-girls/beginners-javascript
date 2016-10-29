@@ -25,7 +25,7 @@ i < 10
 Statement 3 defines how much to increment the `i` variable by each time. If you just want it to increase by one, then put `i++`, or else you can increase by other numbers like so:
 
 ```js
-i+2
+i=+2
 ```
 
 Inside the square brackets goes the code you wish to be executed each time the loop runs. You can refer to the variable `i` from inside the loop.
