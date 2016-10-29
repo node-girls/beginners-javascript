@@ -1,6 +1,4 @@
-# Challenge 1: Needle in a Haystack
-
-- Give an array of objects (people), console.log the same sentence for all of them, only console.log if they are alive
+# Challenge 1: Famous Writers
 
 Did you know you can also have an array of objects? We've created one for you here. Loop through the array, and for each object, `console.log()` out the sentence:
 
