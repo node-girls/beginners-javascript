@@ -31,7 +31,7 @@ var person = {
 We can of course `console.log()` the entire object, but you can also reference just one of the properties. Run this code:
 
 ```js
-console.log(melanie.firstName);
+console.log(person.firstName);
 ```
 
 ## Mini challenge
