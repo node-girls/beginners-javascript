@@ -19,3 +19,5 @@ Should return:
 ```js
 'Found the needle at position 2'
 ```
+
+### [Go to Challenge 4 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/challenge04.md)
