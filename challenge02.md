@@ -16,7 +16,7 @@ Counting to 15 should look like this:
 'Fizz'
 'Buzz'
 11
-'FizzBuzz'
+'Fizz'
 13
 14
 'FizzBuzz'
