@@ -1,6 +1,6 @@
 # Step 5: If/Else Statements
 
-Now we're going to start adding in some logic. So far we have been logging the same thing every time we run the code, but what if we want to log according to different conditions? In programming there is something called an "if/else statement". It tests conditions, and will perform different actions based on the outcome of these tests.
+Now we're going to start adding in some logic. So far we have been logging the same thing every time we run the code, but what if we want to log different things according to different conditions? In programming there is something called an "if/else statement". It tests conditions, and will perform different actions based on the outcome of these tests.
 
 The structure of an if/else statement in JavaScript is as follows:
 
