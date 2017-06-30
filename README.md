@@ -16,6 +16,6 @@ This workshop is divided into a number of steps. In each step, you will be intro
 
 ## Where to Run Your Code
 
-As you write code, you'll want to be able to see what it does. For this, you need to "run it". You can do this in a number of ways, but to make things simple today, we are going to use a tool called [Repl.it](https://repl.it/). Create an account, and start a new project on the site. Make sure to select JavaScript as your language of choice.
+As you write code, you'll want to be able to see what it does. For this, you need to "run it" somewhere. You can do this in a number of ways, but to keep things simple today, we are going to use a tool called [Repl.it](https://repl.it/). Create an account, and start a new project on the site. Make sure to select JavaScript as your language of choice.
 
 ### [Go to Step 1 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/step01.md)
