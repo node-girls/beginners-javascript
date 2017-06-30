@@ -10,7 +10,7 @@ for (statement 1; statement 2; statement 3) {
 }
 ```
 
-Statement 1 defines a variable for the loop. It is usually a number, which we will increase each time the loop finishes so we can keep track of where we're at. You can set the number to be whatever you want.
+Statement 1 defines a variable for the loop. It is usually a number, which we will increase each time the loop finishes so we can keep track of where we're at. You can set the number to be whatever you want, but usually you will start at 0.
 
 ```js
 var i=0
@@ -28,7 +28,7 @@ Statement 3 defines how much to increment the `i` variable by each time. If you 
 i+=2
 ```
 
-Inside the square brackets goes the code you wish to be executed each time the loop runs. You can refer to the variable `i` from inside the loop.
+Inside the curly brackets goes the code you wish to be executed each time the loop runs. You can refer to the variable `i` from inside the loop.
 
 ### Try it out
 
@@ -40,8 +40,7 @@ for (var i=1; i <= 10; i++) {
 }
 ```
 
-Notice the variable `i` is set to `1`, because we want counting to begin there. The length is set to be less than or equal to 10, as we want the loop to end there. And we are increasing the value of `i` by one each time.
-
+Notice the variable `i` is set to `1`, because we want counting to begin at 1. The length is set to be less than or equal to 10, as we want the loop to end there. And we are increasing the value of `i` by one each time.
 
 ### Mini challenge
 

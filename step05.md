@@ -59,6 +59,6 @@ For this challenge, you might find it useful to use the "modulo" operator, which
 100 % 10 === 0 // 100 divided by 10 leaves a remainder of 0
 ```
 
-Read more about the modulo operator [here](http://www.w3schools.com/js/js_operators.asp).
+An even number will have a remainder of 0 when divided by 2. Read more about the modulo operator [here](http://www.w3schools.com/js/js_operators.asp).
 
 ### [Go to Step 6 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/step06.md)

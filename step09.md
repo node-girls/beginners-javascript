@@ -12,7 +12,7 @@ The syntax looks like this:
 }
 ```
 
-The names on the left ("property1") are known "keys". Any values can be given to them: strings, booleans, integers.
+The names on the left ("property1") are known "keys". You can call them whatever you want, and any values can be given to them: strings, booleans, integers.
 
 ## Try it out
 
@@ -42,12 +42,14 @@ Using an object representing a person, `console.log()` a sentence introducing th
 "Hi, my name is {firstName} {lastName}. I am {age} years old, and work as a {occupation}."
 ```
 
-Hint: you can construct longer strings by adding them together. This includes variables. For example:
+Hint: you can construct a string by adding different bits together. This includes variables. For example:
 
 ```js
 var name = Jane;
 
 console.log("People call me " + name);
 ```
+
+Don't forget, you might need to include spaces.
 
 ### [Go to Challenge 1 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/challenge01.md)

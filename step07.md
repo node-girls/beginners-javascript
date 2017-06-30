@@ -32,9 +32,18 @@ function add (x, y) {
 add(2, 3);
 ```
 
-Notice I've invoked the function underneath, with the paremeters `2` and `3`. Inside the function, try to `console.log()` your parameters and see what happens.
+Notice I've invoked the function underneath, with the parameters `2` and `3`. Inside the function, try to `console.log()` both `x` and `y` and see what happens. Try logging them outside the function too. They will be undefined, because we can only access these parameters from inside the function.
 
-Now, we want to add these two numbers together, but it isn't enough just to write `x +y`, since we haven't told the function to return anything. It's time for a `return` statement. The return statement specifies the value to output.
+```js
+function add (x, y) {
+  console.log(x);
+  console.log(y);
+}
+
+add(2, 3);
+```
+
+Now, we want to add these two numbers together, but it isn't enough just to write `x + y`, since we haven't told the function to actually return anything. It's time for a `return` statement. This is usually how you end a function. The return statement specifies the value to output to the console.
 
 ```js
 function add (x, y) {
