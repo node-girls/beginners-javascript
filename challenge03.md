@@ -1,23 +1,18 @@
-# Challenge 3: Needle in a Haystack
+# Challenge 3: Fix the Code
 
-Can you find the needle in the haystack?
+The following code invokes a function called 'add' that adds two numbers together. When you run this code, it should add 13 to 27, and output '40' to the console.
 
-Write a function `findNeedle()` that takes an array full of junk, but containing one "needle", which you need to find with a for loop.
-
-After your function finds the needle it should return a message (as a string) that says: `"Found the needle at position x"`, with `x` being the index number at which you find the needle.
-
-So:
+But this code is broken! Using your newfound JavaScript knowledge, find the bugs and fix it.
 
 ```js
-var haystack = ['hay', 'rabbit', 'needle', 'hat'];
+var first number = 13;
+var second number = 27;
 
-findNeedle(haystack);
+function 'add' () {
+  return x + y;
+}
+
+add(first number, second number);
 ```
 
-Should return:
-
-```js
-'Found the needle at position 2'
-```
-
-### [Go to Challenge 4 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/challenge04.md)
+### [Go to Challenge 3 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/challenge03.md)

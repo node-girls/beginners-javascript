@@ -1,46 +1,25 @@
-# Challenge 1: Famous Writers
+# Challenge 1: Age Difference
 
-Did you know you can also have an array of objects? We've created one for you here. Loop through the array, and for each object, `console.log()` out the sentence:
+Write a function `ageDifference` that returns the difference in age between the oldest and youngest member of a family.
 
-```js
-"Hi, my name is {firstName} {lastName}. I am {age} years old, and work as a {occupation}."
-```
-
-Here is the array:
+It should take two parameters: `youngest`, and `oldest`. These will always be objects. Use the following two as your test cases:
 
 ```js
-var writers = [
-  {
-    firstName: "Virginia",
-    lastName: "Woolf",
-    occupation: "writer",
-    age: 59,
-    alive: false
-  },
-  {
-    firstName: "Zadie",
-    lastName: "Smith",
-    occupation: "writer",
-    age: 41,
-    alive: true
-  },
-  {
-    firstName: "Jane",
-    lastName: "Austen",
-    occupation: "writer",
-    age: 41,
-    alive: false
-  },
-  {
-    firstName: "bell",
-    lastName: "hooks",
-    occupation: "writer",
-    age: 64,
-    alive: true
-  },
-];
+var youngest = {
+  name: 'Maya',
+  age: 13
+};
+
+var oldest = {
+  name: 'Joy',
+  age: 83
+};
 ```
 
-If you want an extra challenge, only `console.log()` the writers that are alive.
+Successfully calling the function will look like this:
+
+```js
+ageDifference(youngest, oldest); // ---> returns 70
+```
 
 ### [Go to Challenge 2 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/challenge02.md)
