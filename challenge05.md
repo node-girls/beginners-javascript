@@ -1,14 +1,21 @@
-# Challenge 5: Ones and Zeros
+# Challenge 5: Needle in a Haystack
 
-Write a function `stringy` that takes a size and returns a string of alternating '1s' and '0s'.
+Can you find the needle in the haystack?
 
-The string should start with a 1.
+Write a function `findNeedle()` that takes an array full of junk, but containing one "needle", which you need to find with a for loop.
+
+After your function finds the needle it should return a message (as a string) that says: `"Found the needle at position x"`, with `x` being the index number at which you find the needle.
+
+So:
 
 ```js
-stringy(6) // --> '101010'
-stringy(5) // --> '10101'
+var haystack = ['hay', 'rabbit', 'needle', 'hat'];
+
+findNeedle(haystack);
 ```
 
-The size will always be positive and will only use whole numbers.
+Should return:
 
-### [Go to Challenge 6 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/challenge06.md)
+```js
+'Found the needle at position 2'
+```
