@@ -15,4 +15,4 @@ function 'add' () {
 add(first number, second number);
 ```
 
-### [Go to Challenge 3 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/challenge03.md)
+### [Go to Challenge 4 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/challenge04.md)
