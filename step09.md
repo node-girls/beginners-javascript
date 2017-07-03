@@ -45,7 +45,7 @@ Using an object representing a person, `console.log()` a sentence introducing th
 Hint: you can construct a string by adding different bits together. This includes variables. For example:
 
 ```js
-var name = Jane;
+var name = 'Jane';
 
 console.log("People call me " + name);
 ```
