@@ -44,6 +44,6 @@ Notice the variable `i` is set to `1`, because we want counting to begin at 1. T
 
 ### Mini challenge
 
-Write a for loop that loops over the numbers from 1 to 100, printing only every second number. So it should return `2, 4, 6, 8, 10...`.
+Write a for loop that loops over the numbers from 0 to 100, printing only every second number. So it should return `0, 2, 4, 6, 8, 10...`.
 
 ### [Go to Step 7 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/step07.md)
