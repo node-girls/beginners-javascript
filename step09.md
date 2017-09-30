@@ -42,12 +42,14 @@ Using an object representing a person, `console.log()` a sentence introducing th
 "Hi, my name is {firstName} {lastName}. I am {age} years old, and work as a {occupation}."
 ```
 
-Hint: you can construct a string by adding different bits together. This includes variables. For example:
+Hint: you can construct a string by adding different strings and values together using the <strong>concatenation</strong> operator `+`. This includes the keys and values of objects. For example:
 
 ```js
-var name = 'Jane';
-
-console.log("People call me " + name);
+var animal = {
+    species: "cat", 
+    name: "Tabitha"
+};
+console.log("My " + animal.species + "is called " + animal.name + ".");
 ```
 
 Don't forget, you might need to include spaces.
